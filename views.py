@@ -1,5 +1,4 @@
 import json
-from functools import wraps
 from django.conf.urls import patterns
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.shortcuts import render_to_response as render
